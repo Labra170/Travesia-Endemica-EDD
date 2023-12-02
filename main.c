@@ -275,6 +275,7 @@ void mostrarCreditos() { // Función para mostrar los créditos
   printf("\nZona 1: Evanescence");
   printf("\nZona 2: Blondon Boys");
   printf("\nZona 3: Caramelldansen");
+  printf("\n");
   return;
 }
 
@@ -307,13 +308,11 @@ void mostrarFinal(int moralidad) { // Función para mostrar el final del juego
   else{ // Si la moralidad es 9 o más, se consigue el final "malo"
     printf("\nEl egoísmo te devolvió a casa, ignoraste a las criaturas a tu paso generando su extinción, tus acciones han generado una catástrofe medioambiental\n");
   }
-
-  printf("Moralidad: %d", moralidad);
 }
 
-void funcionJuego(List *listaZonas, Jugador *jugador) {
-  Zona *zonaActual = (Zona*)firstList(listaZonas);
-  if (zonaActual == NULL) return;
+void funcionJuego(List *listaZonas, Jugador *jugador) { // Función principal para el funcionamiento del juego
+  Zona *zonaActual = (Zona*)firstList(listaZonas); // Se va a la primera zona.
+  if (zonaActual == NULL) return; // Si no hay una lista, se regresa.
   int opcion = 0;
 
   mostrarIntroduccion();
@@ -457,7 +456,7 @@ void interaccionAnimal(char* opcionSTR, Zona *zonaActual, Jugador* jugador) {
     printf("\n%s\n", dialogo);
   }
 
-    printf("\n");
+    printf("\n\n");
     printf("1.- Preguntar sobre el animal\n");
     printf("2.- Preguntar  sobre la zona\n");
     printf("3.- Pregunta por #Parte de mapa de zona %d#\n", zonaActual->ID);
@@ -550,16 +549,18 @@ void interaccionAnimal(char* opcionSTR, Zona *zonaActual, Jugador* jugador) {
       case 5:
         dialogo = obtenerDialogo("despedida", animal->dialogos);
         printf("\n%s\n",dialogo);
+        printf("\n");
         return;
 
       default:
         printf("\nNo existe esa opcion\n");
         break;
     }
+      printf("\n");
     }while(1);
   }
   
-  
+  printf("\n");
   printf("\n...........\n");
   printf("Presiona Enter para continuar...");
   while (getchar() != '\n'); // Consumir cualquier entrada adicional
