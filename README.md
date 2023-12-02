@@ -21,6 +21,8 @@ La aplicacion es un pequeño juego en base de texto, donde eres un navegante que
 * Compile el codigo con `gcc *.c -o programa`
 * Ejecute la aplicacion con `/programa.exe`
 
+`Advertencia - El programa cuenta con caracteres que talvez su sistema no soporte asi que se veran raros, NO ES UN ERROR, en replit se ven correctamente`
+
 ---
 ## Funciones
 
