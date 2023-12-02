@@ -1,0 +1,44 @@
+Cóndor,1,1,1,
+¡Saludos, joven aventurero! Soy el majestuoso Cóndor, el ave de los Andes. ¿Por que te atreves a aventurarte por aquí?;saludo1;
+Bienvenido de nuevo, ¿qué te trae por estos cielos?;saludo2;
+¿Interesado en mi parte de mapa? Cuéntame una cosa de mi rival el puma;respuestaP;
+¿Qué tipo de cazadores son?;preguntaT;
+¡Correcto, joven aventurero! Has demostrado conocimiento;Acierto;
+Fallaste;Equivocado;
+Aquí tienes la parte del mapa, siéntete honrrado;entrega;
+Mi vuelo alto me permite observar vastas áreas y encontrar presas desde lo alto;datoAnimal;
+Esta zona, conocida como la Cordillera de los Andes, es hogar de una gran diversidad de especies y una belleza natural única;datoZona;
+Hasta la próxima, joven aventurero;despedida;
+¡Detente! ¿Osas a robarme?;robo;
+-Al ser robado de su parte de mapa, el Cóndor luchó pero no lo logro-;muerte;
+sigilosos;respuesta;
+
+Puma,1,1,2,
+¡Hola, pequeño humano! Soy el Puma, el felino que ronda estas tierras;saludo1;
+Hola de nuevo, ¿qué te trae por mi territorio?;saludo2;
+¿Necesitas algo en particular? Dime una cosa y vere si te puedo ayudar;respuestaP;
+¿Qué hacen las ranas chilenas durante la época de apareamiento?;preguntaT;
+Entiendo;Acierto;
+No creo que sea eso humano;Equivocado;
+Aquí está tu recompensa. Ahora a practicar;entrega;
+Los pumas somos conocidos por ser sigilosos cazadores y habitan en una variedad de entornos, desde bosques hasta montañas;datoAnimal;
+Esta zona, llamada Valle Central, es conocida por su agricultura y viñedos que producen vinos de renombre;datoZona;
+Hasta luego, humano;despedida;
+¡Qué crees que haces humano!;robo;
+-Al ser robado de su parte de mapa, el Puma enfrentó dificultades y no pudo sobrevivir-;muerte;
+cantan;respuesta;
+
+Rana Chilena,1,1,3,
+¡Hola, viajero! Soy la Rana Chilena, un pequeño habitante de estas aguas;saludo1;
+¡Buenas amigos!;saludo2;
+¿Que buscas una parte de mapa? Te hare una pregunta y te lo podria entregar, pero te advierto que facil no sera;respuestaP;
+¿De qué color soy?;preguntaT;
+¡Muy bien! ¡EH EH EH! ¡Lo lograste!;Acierto;
+Lo siento, no es eso exactamente;Equivocado;
+Aquí tienes, te lo mereces;entrega;
+Las ranas chilenas son conocidas por su color verde brillante y su canto distintivo durante la temporada de apareamiento;datoAnimal;
+Esta zona, conocida como la Región del Maule, es rica en biodiversidad y cuenta con hermosos paisajes naturales;datoZona;
+Hasta luego, viajero;despedida;
+¡Alto! ¿Por qué intentas robarme amigo?;robo;
+-Al ser robada de su parte de mapa, la Rana Chilena entró en depresion-;muerte;
+verde;respuesta;

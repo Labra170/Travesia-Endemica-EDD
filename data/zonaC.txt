@@ -1,0 +1,44 @@
+Picaflor de Arica,1,1,1,
+¡Saludos, curioso viajero! Soy el Picaflor de Arica, una de las aves más pequeñas del mundo y, sin duda, la menor de Chile ¿Qué te trae por esta región?;saludo1;
+Hola de nuevo, ¿te gusta admirar mi colorido plumaje?;saludo2;
+¿Quieres mi parte de mapa? Contéstame esto y veremos qué podemos hacer;respuestaP;
+¿En donde construyen sus nidos los huachimingos?;preguntaT;
+¡Exacto!;Acierto;
+Oh, no has acertado;Equivocado;
+Aquí tienes, espero que lo encuentres útil;entrega;
+El plumaje iridiscente y mi pico largo me ayudan a alcanzar el néctar de las flores;datoAnimal;
+Esta zona, conocida como la Región de Arica y Parinacota, es famosa por su clima árido y la diversidad de flora y fauna adaptada a condiciones extremas;datoZona;
+Hasta la próxima, admirador de aves;despedida;
+¡Que haces, basta!;robo;
+-Al ser robado de su parte de mapa, el Picaflor de Arica enfrentó dificultades y no pudo sobrevivir-;muerte;
+cactus;respuesta;
+
+Huachimingo,1,1,2,
+¡Hola, intrépido explorador! Soy el Huachimingo, un habitante singular de estas tierras;saludo1;
+Bienvenido de nuevo, ¿te animas a conocer más sobre mí?;saludo2;
+¿Quieres? Contéstame esto y te ayudaré con lo que necesitas;respuestaP;
+¿De que le ayuda a alcanzar el nectar los picos de los picaflores?;preguntaT;
+¡Correcto!;Acierto;
+Oh, no has acertado;Equivocado;
+Aquí está la parte de mapa que tanto deseas;entrega;
+Los huachimingos son conocidos por construir sus nidos en cactus espinosos para protegerse de los depredadores;datoAnimal;
+Esta zona, llamada Desierto de Atacama, es uno de los desiertos más áridos del mundo y hogar de diversas especies adaptadas a condiciones extremas;datoZona;
+Hasta luego, explorador;despedida;
+¡Detente! ¿Por qué intentas robarme?;robo;
+-Al ser robado de su parte de maá, el Huachimingo enfrentó dificultades y no pudo sobrevivir-;muerte;
+flores;respuesta;
+
+Lagarto Corredor de Atacama,1,1,3,
+Saludos, forastero. Soy el Lagarto Corredor de Atacama, un reptil veloz que se desplaza por estas tierras;saludo1;
+Que lindo día hace, ¿qué te trae por aquí?;saludo2;
+¿Un mapa? Responde y veremos qué podemos hacer;respuestaP;
+¿Cuál es mi estrategia principal para no ser comido por los depredadores?;preguntaT;
+Buen trabajo, has acertado;Acierto;
+Lo siento, has fallado;Equivocado;
+Ya, toma. Espero que te sirva;entrega;
+Los lagartos corredores de Atacama somos conocidos por nuestra velocidad y agilidad, lo que nos permite escapar de los depredadores;datoAnimal;
+Esta zona, caracterizada por su extenso desierto, es hogar de paisajes únicos y especies adaptadas a condiciones desérticas;datoZona;
+Nos encontraremos de nuevo, viajero;despedida;
+¡Detente!?;robo;
+-Al ser robado de su parte de mapa, el Lagarto Corredor de Atacama enfrentó dificultades y no pudo sobrevivir-;muerte;
+velocidad;respuesta;

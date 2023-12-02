@@ -1,0 +1,45 @@
+Pingüino de Humboldt,1,1,1,
+¡Hola! Soy el Pingüino de Humboldt, gusto en conocerte;saludo1;
+Hola de nuevo, ¿Qué te trae por aquí de nuevo?;saludo2;
+¿Interesado en mi parte de mapa? Respondeme esto;respuestaP;
+¿Me puedes decir como se llamaba un árbol milenario?;preguntaT;
+Si, ese era;Acierto;
+Lo siento, no era ese;Equivocado;
+Aquí tienes el pedazo, espero que lo disfrutes;entrega;
+Mi plumaje negro y blanco me ayuda a camuflarme en el agua y a protegerme del sol;datoAnimal;
+Esta zona es famosa por sus glaciares y sus condiciones climáticas extremas;datoZona;
+Nos vemos, ¡cuidado con los icebergs!;despedida;
+¡Detente! ¿Por qué intentas robarme?;robo;
+-El pingüino al ser robado de su parte de mapa no logró sobrevivir-;muerte;
+coihue;respuesta;
+
+Pudú,1,1,2,
+¡Saludos! Soy el Pudú, un pequeño habitante de estos bosques;saludo1;
+Bienvenido de nuevo, ¿qué necesitas?;saludo2;
+¿Quieres mi parte de mapa? Respondeme esto y te ayudaré;respuestaP;
+¿A que protege el pelaje al pingüino de Humboldt?;preguntaT;
+¡Correcto! Acertaste;Acierto;
+Oh, no has acertado;Equivocado;
+Aquí tienes la parte de mapa como muestra de agradecimiento;entrega;
+Los pudúes son conocidos por ser el ciervo más pequeño del mundo y habitar en bosques densos;datoAnimal;
+Este bosque, llamado Bosque Valdiviano, es famoso por su biodiversidad y la presencia de árboles milenarios como el coihue;datoZona;
+Hasta luego, viajero;despedida;
+¡Detente! ¿Por qué intentas robarme?;robo;
+-El pudú al ser robado de su parte de mapa no logró sobrevivir-;muerte;
+sol;respuesta;
+
+
+Zorro Chilote,1,1,3,
+Saludos, forastero. Soy el Zorro Chilote, un astuto habitante de estas tierras;saludo1;
+Que lindo día hace. ¿Qué te trae por aquí?;saludo2;
+¿Interesado en conseguir mi parte de mapa? Responde a esto;respuestaP;
+¿Entre que me ayuda a camuflarse mi pelaje?;preguntaT;
+Bien hecho viajero, has acertado;Acierto;
+Lo siento viajero, has fallado;Equivocado;
+Aquí está tu recompensa, una parte de mapa fresca;entrega;
+El zorro chilote es conocido por su pelaje grueso y denso que lo ayuda a camuflarse entre la vegetación;datoAnimal;
+Estamos en la región de los Lagos, donde la densa vegetación y los lagos caracterizan el paisaje;datoZona;
+Nos encontraremos de nuevo, viajero;despedida;
+¡Detente! ¿Por qué intentas robarme?;robo;
+-El zorro al ser robado de su parte de mapa no logró sobrevivir-;muerte;
+vegetacion;respuesta;
