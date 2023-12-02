@@ -51,7 +51,7 @@ La aplicacion es un pequeño juego en base de texto, donde eres un navegante que
 
 ## Contribuciones
 
-* Alonso Bravo: Implementacion de inicio, carga, pasar de zona y escritura de dialogos
-* Bryan Pizarro: Implementacion de estructuras, varias las funciones del programa y testeo de la aplicacion
+* Alonso Bravo: Implementacion de inicio, carga, pasar de zona, escritura de dialogos y redaccion de README
+* Bryan Pizarro: Implementacion de estructuras, varias las funciones del programa, documentacion y testeo de la aplicacion
 * Cristel Santibañez: Implementacion de estructuras, varias las funciones del programa, testeo de la aplicacion y escritura de introduccion y finales
-* Ignacio Vera: Implementacion de diseño de codigo, pasar de zona y escritura de dialogos
+* Ignacio Vera: Implementacion de diseño de codigo, pasar de zona, testeo y escritura de dialogos
